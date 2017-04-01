@@ -11,6 +11,7 @@ namespace ThisTimeHello
         static void Main(string[] args)
         {
             Console.WriteLine("Helo Melo :)");
+            Console.WriteLine("Add another feature to the club :))");
         }
     }
 }
